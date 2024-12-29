@@ -9,7 +9,11 @@ This project is a financial analysis dashboard that allows users to analyze the 
 - **Forecasts**: Predict future price trends using statistical forecasts.
 
 ## Screenshots
-- **Homepage**
-![Homepage](/images/homepage.png)
-![Price](/images/price_chart.png)
+**Homepage**: Displaying the ticker input, tab selection and overview of the selected company.
+![Homepage](/images/homepage.png) \
+
+**Price Chart**: The daily close price over a selected period compared with the relative price trends of both the S&P 500 and the stock's corresponding industry index.
+![Price](/images/price_chart.png) \
+
+**Returns Chart & Histogram**: Line and histogram plot of the stock's daily returns.
 ![Returns](/images/returns_chart.png)
