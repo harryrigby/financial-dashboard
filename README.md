@@ -7,3 +7,6 @@ This project is a financial analysis dashboard that allows users to analyze the 
 - **Stock Analysis**: Analyze stock price movements over a customizable date range. Generate dynamic charts that display stock performance and related statistics, and compare with market and industry indicies. 
 - **Risk Metrics**: Calculate various financial metrics such as volatility, Sharpe ratio, VaR, and beta.
 - **Forecasts**: Predict future price trends using statistical forecasts.
+
+## Screenshots
+![Price chart](/images/price_chart.png)
