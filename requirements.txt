@@ -1,0 +1,6 @@
+numpy
+pandas
+dash
+yfinance
+plotly.express
+plotly.graph_objects
