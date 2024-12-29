@@ -9,4 +9,7 @@ This project is a financial analysis dashboard that allows users to analyze the 
 - **Forecasts**: Predict future price trends using statistical forecasts.
 
 ## Screenshots
+![Price chart](/images/homepage.png)
 ![Price chart](/images/price_chart.png)
+![Price chart](/images/returns_chart.png)
+![Price chart](/images/ticker_dropdown.png)
